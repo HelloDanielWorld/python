@@ -1,2 +1,2 @@
 # python
-pythonscript
+Python script program for a csv file
